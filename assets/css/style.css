@@ -182,7 +182,7 @@ header .nav-items {
   height: 37.5rem;
   overflow: hidden;
   transition: all ease-in-out 0.5s;
-  background-image: url(../images/slider/1.jpg);
+  background-image: url(../images/slider/banner1.png);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -339,7 +339,7 @@ header .nav-items {
       padding: 10px;
       flex: 1 1 25%;
       width: 25%;
-      max-width: 25%; }
+      max-width: 40%;}
       @media screen and (max-width: 375px) {
         .bg-04 .main-team-card .team-setup {
           width: 100%;
@@ -667,7 +667,7 @@ footer {
             bottom: 0; }
         .bg-0-b .main-card-contact .sup-card-contact .contact-title ol li {
           display: block;
-          padding: 10px 0px;
+          padding: 0px 0px;
           color: #606060;
           font-size: 16px;
           font-weight: 600; }
